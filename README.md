@@ -1,3 +1,5 @@
+![template_rendering](/images/template_rendering.png "PCB Rendering")
+
 # Leviathan Extension Template
 
 This project contains files that can be used to create your own custom Extension PCB for the Leviathan mainboard. 
